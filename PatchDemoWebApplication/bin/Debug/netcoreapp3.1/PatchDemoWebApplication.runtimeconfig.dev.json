@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ajay negi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ajay negi\\.nuget\\packages"
+    ]
+  }
+}
